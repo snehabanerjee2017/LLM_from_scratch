@@ -1,1 +1,5 @@
 .venv
+models/
+*.pth
+gpt_download.py
+__pycache__/
