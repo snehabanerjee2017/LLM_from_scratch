@@ -3,3 +3,7 @@ models/
 *.pth
 gpt_download.py
 __pycache__/
+sms_spam_collection/
+*.zip
+*.csv
+figures/
